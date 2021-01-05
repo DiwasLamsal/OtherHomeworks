@@ -16,4 +16,4 @@ Software Engineering III, University of Northampton
 <hr>
 Artificial Intelligence Year III, University of Northampton
 
-<a href = "https://diwaslamsal.github.io/OtherHomeworks/Artificial-Intelligence/poster-presentation-GA.png" target="_blank"> Brain Tumor MRI Classification using Genetic Algorithms </a> | <a href = "https://diwaslamsal.github.io/OtherHomeworks/Artificial-Intelligence/18406547-diwas-lamsal-AI-report-intelligent-transport.pdf" target="_blank"> Use of Artificial Intelligence Techniques in Intelligent Transport  </a> - <a href = "https://diwaslamsal.github.io/OtherHomeworks/Artificial-Intelligence/csy3025ass1_1920.pdf" target="_blank"> Assignment Brief </a>  
+<a href = "https://diwaslamsal.github.io/OtherHomeworks/Artificial-Intelligence/18406547-diwas-lamsal-AI-report-intelligent-transport.pdf" target="_blank"> Use of Artificial Intelligence Techniques in Intelligent Transport  </a> - <a href = "https://diwaslamsal.github.io/OtherHomeworks/Artificial-Intelligence/csy3025ass1_1920.pdf" target="_blank"> Assignment Brief </a>  
